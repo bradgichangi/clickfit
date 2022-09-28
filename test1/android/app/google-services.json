@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379388932292",
+    "project_id": "clickfit-64182",
+    "storage_bucket": "clickfit-64182.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379388932292:android:c077a18b951a32bba2d991",
+        "android_client_info": {
+          "package_name": "com.clickfit.test1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379388932292-fum3uopqc58rj2us3ri7dfbuhr380utg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMNrXHl_3_93wBwggQLXHNB5Fcqm3UePc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379388932292-fum3uopqc58rj2us3ri7dfbuhr380utg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
