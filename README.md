@@ -1,5 +1,7 @@
 # ClickFit Personal Training App
 
+This is an app which I had made for my final year project which was graded a 1st.
+
 ## What is ClickFit?
 ClickFit is an app which connects personal trainers to clients. Personal trainers are able to display their expertise on their page to attract a client base, they can make posts that may include their clients progress to encourage clients to work with them. Clients can search for trainers who are nearby and also choose trainers who specialise in the exact fields they are interested in.
 
